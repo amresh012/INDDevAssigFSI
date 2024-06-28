@@ -1,0 +1,2 @@
+2024-06-28T13:05:44.767Z [31merror[39m: Failed to create user: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: "starkInc@truhlar.com" }
+2024-06-28T13:06:18.562Z [32minfo[39m: Created new user: starkInc@NewYork.com
