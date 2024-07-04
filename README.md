@@ -3,7 +3,8 @@
 
  API oriented backend application which provides API endpoints to manage users and their details.
 
-
+**
+[demo vedio](https://drive.google.com/uc?id=19ITCebzIabdQRobdhB4CcshdlgKXB3f6&export=download)
 
 ## Table of Content
 
@@ -27,9 +28,19 @@ https://github.com/amresh012/INDDevAssigFSI.git
 ```
 
 Go to the project directory
+switch to backend part
+```bash
+  cd INDDevAssigFSI
+  cd Backend
+  cd frontend crud-app
+```
+
+switch to frontend part
 
 ```bash
   cd INDDevAssigFSI
+  cd frontend
+  cd crud-app
 ```
 
 Install dependencies
