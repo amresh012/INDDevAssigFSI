@@ -6,7 +6,7 @@
 **
 **Features**
 - rendering 10000 rows react window implemented using Vertuso(react-virtualiaztion library)
-[demo vedio](https://drive.google.com/uc?id=19ITCebzIabdQRobdhB4CcshdlgKXB3f6&export=download)
+[demo vedio](https://drive.google.com/file/d/19ITCebzIabdQRobdhB4CcshdlgKXB3f6/view?usp=drive_link)
 
 ## Table of Content
 
