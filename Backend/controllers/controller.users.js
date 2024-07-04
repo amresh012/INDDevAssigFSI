@@ -2,7 +2,7 @@ import { User } from "../models/model.users.js";
 import logger from "../config/logger.js";
 // List users with pagination, search, and sorting
 export const getUsers = async (req, res) => {
-  const { page = 1, limit = 5, search, sort } = req.query;
+  const { page = 1, limit = 100, search, sort } = req.query;
   const query = {};
   if (search) {
     query.$or = [

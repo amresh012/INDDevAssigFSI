@@ -1,2 +1,26 @@
 2024-06-28T13:05:44.767Z [31merror[39m: Failed to create user: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: "starkInc@truhlar.com" }
 2024-06-28T13:06:18.562Z [32minfo[39m: Created new user: starkInc@NewYork.com
+2024-06-29T19:15:36.319Z [31merror[39m: Failed to create user: User validation failed: lastName: Path `lastName` is required.
+2024-06-29T19:19:39.006Z [32minfo[39m: Created new user: amreshmishra67088@gmail.com
+2024-06-30T15:30:52.980Z [32minfo[39m: Fetched all users
+2024-06-30T15:30:54.515Z [32minfo[39m: Incoming request: GET /favicon.ico
+2024-07-01T05:20:13.550Z [32minfo[39m: Incoming request: GET /favicon.ico
+2024-07-04T13:40:46.970Z [31merror[39m: Failed to create user: User validation failed: lastName: Path `lastName` is required., firstName: Path `firstName` is required.
+2024-07-04T13:44:55.598Z [32minfo[39m: Fetched all users
+2024-07-04T13:47:05.215Z [32minfo[39m: Created new user: company.xyz@email.com
+2024-07-04T13:47:25.572Z [32minfo[39m: Fetched all users
+2024-07-04T13:47:53.394Z [31merror[39m: Failed to create user: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: "company.xyz@email.com" }
+2024-07-04T13:48:35.907Z [32minfo[39m: Created new user: newdata@newentry.com
+2024-07-04T13:48:43.540Z [32minfo[39m: Fetched all users
+2024-07-04T15:13:15.120Z [32minfo[39m: Fetched all users
+2024-07-04T15:13:35.410Z [31merror[39m: Failed to create user: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: "newdata@newentry.com" }
+2024-07-04T15:14:10.754Z [32minfo[39m: Fetched all users
+2024-07-04T15:17:33.835Z [32minfo[39m: Fetched all users
+2024-07-04T15:18:10.465Z [32minfo[39m: Fetched all users
+2024-07-04T15:18:47.345Z [32minfo[39m: Fetched all users
+2024-07-04T15:19:02.814Z [32minfo[39m: Fetched all users
+2024-07-04T15:19:22.261Z [32minfo[39m: Fetched all users
+2024-07-04T16:48:58.059Z [32minfo[39m: Created new user: myworkdata@my.com
+2024-07-04T16:49:15.942Z [32minfo[39m: Fetched all users
+2024-07-04T16:49:41.120Z [31merror[39m: Failed to create user: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: "myworkdata@my.com" }
+2024-07-04T16:49:45.763Z [32minfo[39m: Fetched all users
