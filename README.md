@@ -4,6 +4,8 @@
  API oriented backend application which provides API endpoints to manage users and their details.
 
 **
+**Features**
+- rendering 10000 rows react window implemented using Vertuso(react-virtualiaztion library)
 [demo vedio](https://drive.google.com/uc?id=19ITCebzIabdQRobdhB4CcshdlgKXB3f6&export=download)
 
 ## Table of Content
